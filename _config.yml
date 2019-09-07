@@ -1,8 +1,8 @@
 # site settings
-title: Steve Douglas for Commerce City Mayor
-subtitle: Because You Matter
-email: SteveForCCMayor@gmail.com
-description: ...because YOU Matter!
+title: Lucy Molina for Commerce City
+subtitle:
+email: lalucylok@gmail.com
+description: The Wealth of this Community is In Is People
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city:
 state:
 zip_code:
 country:
-phone: (720) 205-2621
+phone: (720) 275-579
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/electstevedouglasforCommerceCityMayor/
+facebook_url: 
 github_url:
 gitlab_url:
 googleplus_url:
@@ -27,7 +27,8 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/MayorDouglas_CC
+twitter_url: 
+act_blue_url: https://secure.actblue.com/donate/committee-to-elect-luz-e--molina-1
 
 # build settings
 markdown: kramdown
