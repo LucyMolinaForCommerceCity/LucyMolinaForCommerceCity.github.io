@@ -2,7 +2,7 @@
 layout: post
 title: Meet Lucy Molina
 description: Id ad quis anim consequat excepteur culpa eu labore nostrud nisi. Enim exercitation excepteur ullamco adipisicing deserunt ullamco nostrud laborum occaecat aliqua ipsum ad dolor sit. Proident deserunt sit deserunt pariatur pariatur cillum anim mollit esse. Sunt et culpa tempor voluptate consequat deserunt consectetur pariatur do voluptate laborum est. In nostrud in commodo tempor exercitation sunt sint consectetur cillum commodo exercitation quis.
-image: assets/images/portrait.jpg
+image: assets/images/portrait2.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

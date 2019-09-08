@@ -2,7 +2,7 @@
 layout: post
 title: Fight Environment Racism and Gun Violence
 description: Adipisicing exercitation nulla quis est anim reprehenderit aute mollit exercitation fugiat id id adipisicing occaecat. Veniam voluptate officia ea incididunt exercitation nisi sunt. In culpa adipisicing dolore ullamco reprehenderit cillum in voluptate voluptate nisi ipsum amet in exercitation. Reprehenderit adipisicing nulla consectetur eu anim pariatur ad tempor laboris aliquip enim.
-image: assets/images/gun-violence.jpg
+image: assets/images/gun-violence2.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.

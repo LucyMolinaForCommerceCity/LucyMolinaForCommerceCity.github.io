@@ -2,7 +2,7 @@
 layout: post
 title: Advocate for Small Business Success
 description: Sunt aliquip et magna est mollit cupidatat cillum in in tempor ullamco dolor ea velit. Voluptate Lorem ex aliquip aliquip exercitation ut fugiat officia. Sunt ut id eiusmod eiusmod quis voluptate veniam non officia id nostrud laborum consequat magna.
-image: assets/images/small-business.jpg
+image: assets/images/small-business2.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
