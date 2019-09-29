@@ -1,7 +1,7 @@
 <section id="one" class="spotlights">
     {% for post in site.posts reversed%}
     <section>
-        <a href="{{post.url}}" class="image">
+        <a href="javascript:void(0)" class="image">
             <img src="{{post.image}}" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -10,9 +10,6 @@
                     <h3>{{ post.title }}</h3>
                 </header>
                 <p>{{ post.description}}</p>
-                <ul class="actions">
-                    <li><a href="{{post.url}}" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>

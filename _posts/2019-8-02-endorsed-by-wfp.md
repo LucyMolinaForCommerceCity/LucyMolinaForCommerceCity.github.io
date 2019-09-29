@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Advocate for Small Business Success
-description: Sunt aliquip et magna est mollit cupidatat cillum in in tempor ullamco dolor ea velit. Voluptate Lorem ex aliquip aliquip exercitation ut fugiat officia. Sunt ut id eiusmod eiusmod quis voluptate veniam non officia id nostrud laborum consequat magna.
-image: assets/images/small-business2.jpg
+title: Endorsed by the Working Families Party
+description: Lucy has received many worthy endorsements from social justice advocacy groups, and one of them is from the Working Families Party, which activists nationally for working families across our nation. Lucy’s quote was published as follows in the Denver Post - "While many working families in my community are forced to work two or three jobs to make ends meet, big corporations have found the pot of gold at the end of the taxpayer rainbow in Commerce City," said endorsed Commerce City Council candidate Luz (Lucy) Molina. "The Working Families Party supports candidates who will co-govern with the community rather than wealthy corporations and special interests. I am proud to stand with WFP to bring the people’s voice to city hall."
+image: assets/images/Working_Families_Party_logo.png
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -1,22 +1,8 @@
 ---
 layout: post
 title: Meet Lucy Molina
-description: Id ad quis anim consequat excepteur culpa eu labore nostrud nisi. Enim exercitation excepteur ullamco adipisicing deserunt ullamco nostrud laborum occaecat aliqua ipsum ad dolor sit. Proident deserunt sit deserunt pariatur pariatur cillum anim mollit esse. Sunt et culpa tempor voluptate consequat deserunt consectetur pariatur do voluptate laborum est. In nostrud in commodo tempor exercitation sunt sint consectetur cillum commodo exercitation quis.
+description: I’m Lucy and I’m running for Council because I have a passion for people, and I believe it’s time that people like me have a voice and a seat at the table without having to bring my own chair. I want to represent you because I know your struggles in trying to make ends meet in a world that seems to make life difficult for people who are disadvantaged and may never have the same opportunities so accessible to others, especially a people of color. Running for office was not something I had in my plans. But after being approached by many friends and colleagues urging me to run, I decided I had to step up and say yes. I’ll admit, it wasn’t an easy decision to make. I am not a person of means. I have never worked in government. I don’t have special connections. I just know when things need to be better than they are, and I want to help to make those changes for the people that may not always be seen as deserving. I have always been an activist, while encouraging others to be courageous, get involved, and stand up for what’s right. Now is our time, and I encourage you to join me.
 image: assets/images/portrait2.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Once you meet Lucy, you’ll never forget her and that’s why we say that “We love Lucy!”. Lucy has an amazing spirit - her genuine passion radiates good-will wherever she goes. Whether it’s at the Capitol advocating for environmental justice by testifying for bills to help Colorado move into the clean energy age, or at the Colorado State Board of Education fighting to save District 14’s brand new high school from private take-over, Lucy is there to stand up for what is right for the people of Commerce City. Lucy knows what it’s like to barely make ends meet. Lucy knows what it’s like to choose between paying the bills and the rent and feeding her family. She also knows what it’s like to have sick kids and an ailing mother without knowing why they continue to be plagued with unrelenting mysterious illnesses. Lucy knows there are solutions to these problems, but in order to solve these problems, there has to be people in a position of authority to first, recognize that there are problems, and then to find real solutions, and put those solutions into place. Lucy will be that council woman who gets things done, finding real solutions for real problems – the problems that many people know all too well and struggle with, only because the system is stacked against them. Lucy will be your voice and bring the change.    
